@@ -1,0 +1,61 @@
+student_id,student_name,gpa,department,class_name,final_grade
+1,"Abby Johnson",3.1,General,"Physical Education",85
+1,"Abby Johnson",3.1,Humanities,English,82
+1,"Abby Johnson",3.1,Science,Chemistry,94
+1,"Abby Johnson",3.1,Math,Geometry,93
+2,"Bob Smith",3.1,General,"Physical Education",80
+2,"Bob Smith",3.1,Humanities,"World History",75
+2,"Bob Smith",3.1,Science,Chemistry,87
+2,"Bob Smith",3.1,Math,Statistics,88
+3,"Catherine Davis",3.6,General,"Senior Seminar",100
+3,"Catherine Davis",3.6,Humanities,"World History",92
+3,"Catherine Davis",3.6,Science,Physics,95
+3,"Catherine Davis",3.6,Math,Calculus,98
+4,"Daniel Brown",3.5,General,"Physical Education",95
+4,"Daniel Brown",3.5,Humanities,English,75
+4,"Daniel Brown",3.5,Science,Biology,82
+4,"Daniel Brown",3.5,Math,Algebra,85
+5,"Eva Martinez",2.7,General,"Physical Education",85
+5,"Eva Martinez",2.7,Humanities,English,87
+5,"Eva Martinez",2.7,Science,Chemistry,74
+5,"Eva Martinez",2.7,Math,Geometry,80
+6,"Frank Wilson",3.2,General,"Physical Education",95
+6,"Frank Wilson",3.2,Humanities,"World History",95
+6,"Frank Wilson",3.2,Science,Chemistry,98
+6,"Frank Wilson",3.2,Math,Statistics,90
+7,"Grace Lee",3,General,"Senior Seminar",98
+7,"Grace Lee",3,Humanities,"World History",94
+7,"Grace Lee",3,Science,Physics,82
+7,"Grace Lee",3,Math,Calculus,86
+8,"Henry Taylor",3,General,"Physical Education",90
+8,"Henry Taylor",3,Humanities,English,80
+8,"Henry Taylor",3,Science,Biology,72
+8,"Henry Taylor",3,Math,Algebra,76
+9,"Isabella Moore",2.8,General,"Physical Education",90
+9,"Isabella Moore",2.8,Humanities,English,84
+9,"Isabella Moore",2.8,Science,Chemistry,76
+9,"Isabella Moore",2.8,Math,Geometry,72
+10,"Jack Thompson",2.9,General,"Physical Education",85
+10,"Jack Thompson",2.9,Humanities,"World History",84
+10,"Jack Thompson",2.9,Science,Physics,77
+10,"Jack Thompson",2.9,Math,Statistics,82
+11,"Karen White",3.4,General,"Physical Education",95
+11,"Karen White",3.4,Humanities,English,98
+11,"Karen White",3.4,Science,Biology,87
+11,"Karen White",3.4,Math,Algebra,90
+12,"Liam Green",4,General,"Physical Education",95
+12,"Liam Green",4,Humanities,"World History",98
+12,"Liam Green",4,Science,Physics,96
+12,"Liam Green",4,Math,Statistics,99
+13,"Mia Harris",3,General,"Physical Education",90
+13,"Mia Harris",3,Humanities,"World History",82
+13,"Mia Harris",3,Science,Physics,86
+13,"Mia Harris",3,Math,Statistics,85
+15,"Olivia Adams",3.7,General,"Physical Education",95
+15,"Olivia Adams",3.7,Humanities,English,99
+15,"Olivia Adams",3.7,Science,Biology,96
+15,"Olivia Adams",3.7,Math,Algebra,97
+16,"Peter Park",2.9,General,"Senior Seminar",95
+16,"Peter Park",2.9,Humanities,"World History",86
+16,"Peter Park",2.9,Science,Physics,74
+16,"Peter Park",2.9,Math,Calculus,71
